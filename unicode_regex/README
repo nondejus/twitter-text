@@ -54,8 +54,3 @@ int main(int argc, const char * argv[]) {
 
 To generate the compact form of the regexes for Java, Ruby, and JavaScript, run
 scala unicode_regex_groups.scala
-
-
-
-
-
